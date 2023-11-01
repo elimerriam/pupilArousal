@@ -1,11 +1,11 @@
 # pupilArousal
-Pupillometry project analysis scripts for MATLAB.
+Pupillometry project experimental and analysis scripts for MATLAB.
 
 ## Authors ########################################################
 June Hee Kim &lt;<junehee.kim@nih.gov>&gt; Zvi N. Roth &lt;<zviroth@gmail.com>&gt; and Elisha P. Merriam &lt;<elisha.merriam@nih.gov>&gt; 
 
 ## Usage ##########################################################
-Experimental code and core analysis scripts used for Kim J, Yin C, Merriam EP, Roth ZN (2023) Pupil Size Is Sensitive to Low-Level Stimulus Features, Independent of Arousal-Related Modulation. ENeuro 
+Experimental and core analysis scripts used for Kim J, Yin C, Merriam EP, Roth ZN (2023) Pupil Size Is Sensitive to Low-Level Stimulus Features, Independent of Arousal-Related Modulation. ENeuro 
 
 Scripts can be roughly broken down as follows. Scripts are listed from innermost function to outermost (i.e., the first function is called by the second function, the second is called by the third, etc)
 
