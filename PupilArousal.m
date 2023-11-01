@@ -1,6 +1,6 @@
 %%   PupilArousal.m
 
-%   usage: PupilArousal.m 
+%   usage: PupilArousal(PupilData, R)
 %   by: June Hee Kim & Zvi Roth
 %   date: 06/03/2022 (last modified: 01/05/2023)
 %   purpose: Filters eye data and calculates response amplitudes per trials 
