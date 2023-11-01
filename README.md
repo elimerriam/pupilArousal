@@ -24,7 +24,7 @@ Scripts can be roughly broken down as follows. Scripts are listed from innermost
    
    pupilArousal.m: This is an analysis script designed to evaluate task-related and stimulus-evoked pupil responses. The script undertakes several specific operations, including:
 
-   * Z-scoring pupil sizes within individual runs,
+   * Z-scoring pupil sizes across all runs,
    * Implementing a low-pass Butterworth filter (3rd order) on the pupil data,
    * Constructing stimulus and null response templates,
    * Estimating trial-wise response amplitudes using linear regression.
